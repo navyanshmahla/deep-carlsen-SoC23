@@ -1,6 +1,7 @@
 # Deep Carlsen
 
 Welcome to the Season of Code (SoC) 2023 project *Deep Carlsen*. 
+
 Mentors: **Navyansh Mahla**, **Atishay Jain**
 
 ## What is the project all about?
@@ -25,14 +26,6 @@ As you know, there can be multiple algos which can be used to implement a chess 
 
 
 # The workflow:
-
-Week 1: Learning Python basics
-Week 2: Learning deep learning frameworks like Tensorflow/PyTorch, and deciding upon which paper/blog/idea to implement
-Week 3: Thoroughly reading the research paper and developing a rough plan of its implementation.
-Week 4: Implementing the model.
-Week 5: Implementing rest of the engine 
-Week 6: Writing a detailed writup explaining your thought process and idea while implementing the paper with the link to the video showing the working demo of your engine. 
-
 
 
 | Week       | Objective |
