@@ -25,10 +25,23 @@ As you know, there can be multiple algos which can be used to implement a chess 
 
 
 # The workflow:
+
 Week 1: Learning Python basics
 Week 2: Learning deep learning frameworks like Tensorflow/PyTorch, and deciding upon which paper/blog/idea to implement
 Week 3: Thoroughly reading the research paper and developing a rough plan of its implementation.
 Week 4: Implementing the model.
 Week 5: Implementing rest of the engine 
 Week 6: Writing a detailed writup explaining your thought process and idea while implementing the paper with the link to the video showing the working demo of your engine. 
+
+
+
+| Week       | Objective |
+| ----------- | ----------- |
+| Week 1      | Learning Python Basics [Mosh's Tutorial](https://youtu.be/kqtD5dpn9C8) & [OOPs tutorial](https://realpython.com/python3-object-oriented-programming/)       |
+| Week 2   | Learning deep learning frameworks like Tensorflow/PyTorch, and deciding upon which paper/blog/idea to implement [TF Tutorials](https://www.tensorflow.org/tutorials)      |
+| Week 3 | Thoroughly reading the research paper and developing a rough plan of its implementation.|
+| Week 4 | Implementing the model|
+| Week 5 | Implementing rest of the engine |
+| Week 6 | Writing a detailed writup explaining your thought process and idea while implementing the paper with the link to the video showing the working demo of your engine |
+
 
