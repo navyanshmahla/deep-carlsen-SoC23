@@ -61,7 +61,7 @@ It's not a research paper, but a very promising implementation by Octavio Santia
 
 ## Tuur Vanhoutte's Thesis
 
-[The theis](https://github.com/zjeffer/howest-thesis)
+[The thesis](https://github.com/zjeffer/howest-thesis)
 
 If you are interested in Reinforcement learning and using it to create a chess AI, well this one is for you. Thesis is around 44 pages, much of which is reflecting on previously done work. It's well explained and is easy to understand if you follow along properly. 
 
@@ -70,7 +70,7 @@ There are tons of chess AI out there each of which is using a different architec
 We have our own simple strategy to make one more chess AI, possibly of more than 2000 ELO rating. If you are interested in knowing it, feel free to contact us. 
 
 #### About the implementation:
-Of all these research papers, it will not be very difficult to find the implementation code. To that matter, we'd not advice you to coy code for the very obvious reason: the hardware. All these research papers are implemented keeping in mind the hardware and training time. Usually scientists train these on super-fast TPUs and GPUs and that too for more than 20 days! You guys are just having your online notebooks and a few hours for the same. So, it'll be better for you to implement these papers in such a way that the training might be done easily on online GPUs in a short amount of time(say 20hrs max). And for that, copying the code won't be beneficial. You can take inspiration from the implementation, but we'd advice you to refrain from doing *copy-paste engineering*.
+Of all these research papers, it will not be very difficult to find the implementation code. To that matter, we'd not advice you to copy code. Reason is obvious: the hardware. All these research papers are implemented keeping in mind the hardware and training time. Usually scientists train these on super-fast TPUs and GPUs and that too for more than 20 days! You guys are just having your online notebooks and a few hours for the same. So, it'll be better for you to implement these papers in such a way that the training might be done easily on online GPUs in a short amount of time(say 20hrs max). And for that, copying the code won't be beneficial. You can take inspiration from the implementation, but we'd advice you to refrain from doing *copy-paste engineering*.
 
 
 
